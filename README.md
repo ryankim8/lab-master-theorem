@@ -318,13 +318,22 @@ For each function:
 | `foo2`            | $T(n) = 2T(n/2) + \Theta(n)$ | yes | $\Theta(n\log n)$ | no |
 | `foo3`            | $T(n) = 2T(n/2) + \Theta(n^2)$ | yes | $\Theta(n^2)$ | no |
 
+binary search:
 <img src=binary_search.png />
+quick sorted:
 <img src=quick_sorted.png />
+quick select:
 <img src=quick_select.png />
+sequential search:
 <img src=sequential_search_rec.png />
+grid paths:
 <img src=grid_paths.png />
+foo1:
 <img src=foo1.png />
-
+foo2:
+<img src=foo2.png />
+foo3:
+<img src=foo3.png />
 ## Submission
 
 Ensure that all your images and completed table are pushed to github.
